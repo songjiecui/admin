@@ -1,4 +1,4 @@
-package com.ttxs.admin.util;
+package com.ttxs.core.util;
 
 import org.springframework.context.ApplicationContext;
 /**

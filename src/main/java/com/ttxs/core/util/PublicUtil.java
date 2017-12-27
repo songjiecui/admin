@@ -1,4 +1,4 @@
-package com.ttxs.admin.util;
+package com.ttxs.core.util;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

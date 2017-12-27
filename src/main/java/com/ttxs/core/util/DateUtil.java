@@ -1,4 +1,4 @@
-package com.ttxs.admin.util;
+package com.ttxs.core.util;
 
 import java.text.DateFormat;
 import java.text.ParseException;

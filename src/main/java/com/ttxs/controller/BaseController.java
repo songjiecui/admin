@@ -1,4 +1,4 @@
-package com.ttxs.admin.controller.base;
+package com.ttxs.controller;
 
 
 import javax.servlet.http.HttpServletRequest;
@@ -7,10 +7,10 @@ import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.ttxs.admin.util.Logger;
-import com.ttxs.admin.util.Page;
-import com.ttxs.admin.util.PageData;
-import com.ttxs.admin.util.UuidUtil;
+import com.ttxs.core.util.Logger;
+import com.ttxs.core.util.Page;
+import com.ttxs.core.util.PageData;
+import com.ttxs.core.util.UuidUtil;
 
 
 
